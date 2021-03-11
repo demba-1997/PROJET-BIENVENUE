@@ -22,7 +22,7 @@ background: white;
 }
 #blocbody{
 width: 92%;
-height: 150%;
+margin: auto;
  margin-left:4%; 
 background: white;
 margin-top: -1.5%;
@@ -30,7 +30,6 @@ margin-top: -1.5%;
 #blocfooter{
   width:92%;
   height:20%; 
-  background: orange;
   margin-left:4%; 
 }
 nav ul{
@@ -41,13 +40,13 @@ nav ul{
  margin-top:3%; 
 }
 nav li{
-  margin-left:5%;
+  margin-left:8%;
 
 }
 nav a{
-  color:#ad8b3a; 
+  color:white; 
  text-decoration:none;
- font-size: 80%;
+ font-size: 90%;
 
 }
 
@@ -815,60 +814,226 @@ nav a{
 .as-btn-navy-small:focus {
     outline: 0;
 }
-#texte1{
-    width: 31%;
-    height: 20%;
-    background: red;
-    color: white;
-    text-align: center;
-    font-size: 20px;
+#rec1{
+    width:20%;
+    height: 3%;
+    background: #c90017;
+    margin-left: 6%;
 }
-#a2{
-    
-    font-size: 27px;
+#rec2{
+    width:20%;
+    height: 3%;
+    background: #c90017;
+    margin-left: 28%;
+     margin-top: -1.5%;
+}
+#rec3{
+    width:20%;
+    height: 3%;
+    background: #c90017;
+    margin-left: 50%;
+     margin-top: -1.45%;
+}
+#rec4{
+    width:20%;
+    height: 3%;
+    background: #c90017;
+    margin-left: 72%;
+     margin-top: -1.45%;
+}
+#pic1{
+    margin-bottom: -13%;
+    margin-left: 6%;
+    width: 100%;
+    max-height: 30%;
+    margin-top: 2.5%;
+}
+#pic2{
+    margin-left: 58.25%;
+    margin-top: -2%;
+}
+#texte1{
+    width: 30%;
+    height:15%; 
+    margin-top: 0%;
+    margin-left: 6%;
+}
+#entete1{
+    margin-top: 3%;
+    text-align: center;
+    font-family: montserrat;
+}
+#contenu1{
+    font-size: 28px;
+    margin-top: -1%;
+    font: "open sans bold" ;
 }
 #texte2{
-    width: 31%;
-    height: 20%;
-    background: red;
-    color: white;
-    font-size: 20px;
-    float: right;
-    margin-top: -13.5%;
-    margin-right: 34.5%;
-}
-#a3{
-    margin-top: -0.5%;
-    text-align: center;
+    width: 30%;
+    height:15%; 
+    margin-top: -8%;
+    margin-left: 58.25%;
 }
 ul{
-
-   list-style-type: square;
+ list-style-type: square;
 }
 li{
-  font-size:25px;
+ text-decoration: square;
+    font-size: 28px;
+}
+a{
+    }
+#entete2{
+    margin-top: 3%;
+    text-align: center;
+    font-family: montserrat;
+}
+#pic3{
+    margin-top: 4.5%;
+    margin-left: 32%;
 }
 #texte3{
-    width: 31%;
-    height: 20%;
-    background: red;
+    margin-top: 3%;
+    margin-left: 30%;
+    margin-top: -1%;
+}
+#entete3{
+
+    margin-left: 18%;
+      font-family: montserrat;
+}
+#contenu3{
+    font-size: 28px;
+    margin-left: 8%;
+   font-family:"open sans bold" ;
+   margin-top: -1%;
+}
+#formation{
+
+
+}
+#qq1{
+
+  font-size: 40px;
+  text-align: center;
+  color:#ad8b3a;   
+}
+#pic01{
+    margin-left: 6%;
+}
+#soutitre{
+    margin-left: 6%;
+    margin-top: -14%;
+    font-size: 40px;
     color: white;
+}
+#bloc1{
+    width:50%;
+    margin-left: 40%;
+    background: #ad8b3a;
+    margin-top: -10%;
+}
+
+#tex{
     font-size: 20px;
-    float: right;
-    margin-top: -13.5%;
-    margin-left: 70%;
+    margin-left: 12%;
+    color: white;
+    }
+#parti1{
+    width: 100%;
+    margin:auto;
+    }
+    #pic02{
+    margin-top: 10%;
+     margin-left: 15%;
 }
-#a4{
-    margin-top: -0.5%;
-    text-align: center;
+#soutitre2{
+    margin-left: 18%;
+    margin-top: -14%;
+    font-size: 47px;
+    color: white;
 }
-ul{
-
-   list-style-type: square;
+#bloc2{
+    width:50%;
+    margin-left: 40%;
+    background: #ad8b3a;
+    margin-top: -10%;
 }
-li{
-  font-size:25px;
+
+#tex2{
+    font-size: 20px;
+    margin-left: 12%;
+    color: white;
+    }
+    #parti2{
+    width: 100%;
+    margin:auto;
+    }
+    #pic03{
+    margin-left: 6%;
+    margin-top: 13%;
 }
-
-
-
+#soutitre3{
+    margin-left: 6%;
+    margin-top: -14%;
+    font-size: 40px;
+    color: white;
+}
+#bloc3{
+    width:50%;
+    margin-left: 40%;
+    background: #ad8b3a;
+    margin-top: -12%;
+}
+#tex3{
+    font-size: 20px;
+    margin-left: 12%;
+    color: white;
+    }
+    #parti3{
+    width: 100%;
+    margin:auto;
+    }
+    #qq2{
+   
+  font-size: 40px;
+  text-align: center;
+  color:#ad8b3a; 
+  margin-top: 5%;  
+}
+#formateur{
+   
+   
+  margin-top: 10%;  
+}
+#toph1{ 
+  margin-left: 6%;  
+}
+#signbi{ 
+  margin-left: 6%;  
+}
+#signbi1{ 
+  margin-left: 5%;  
+}
+#toph2{ 
+  margin-left: 6%; 
+  padding-left: 34%;
+  margin-top: -22%; 
+}
+#signbi2{ 
+  margin-left: 6%;  
+}
+#signbi3{ 
+  margin-left: 5%;  
+}
+#toph3{ 
+  margin-left: 6%; 
+  padding-left: 64%;
+  margin-top: -22%; 
+}
+#signbi4{ 
+  margin-left: 6%;  
+}
+#signbi5{ 
+  margin-left: 5%;  
+}
