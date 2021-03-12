@@ -1098,3 +1098,59 @@ height: 2%;
   margin-left: 40%;
   margin-top: -3.5%;   
 }
+}
+#label6{
+width: 35%;
+height: 15%;
+  text-align: center;
+ background:#c90017; 
+ margin-left: 35%;
+ font-size: 30px;
+ margin-top: 4%;
+ padding-top: 3%;    
+}
+#label7{
+width: 35%;
+height: 15%;
+  text-align: center;
+ background:#ad8b3a; 
+ margin-left: 35%;
+ font-size: 30px;
+ margin-top: 4%;
+ padding-top: 3%;
+ color: white;    
+}
+#label8{
+width: 15%;
+height: 3%;
+  text-align: center;
+  background:#ad8b3a;
+  margin-left: 47%;
+  margin-top:2%;   
+}
+#write{
+    width: 30%;
+    height:13%;
+  color: white;
+  font-size: 40px;
+  padding-top: 1%; 
+}
+#icone{
+    float: right;
+    display: flex;
+    margin-top: -3.6%; 
+    margin-right: 5%;
+}
+#icone1{
+    margin-left: 2%;
+}
+#icone2{
+    margin-left: 2%;
+}
+#icone3{
+    margin-left: 2%;
+}
+#icone4{
+    margin-left: 2%;
+}
+
